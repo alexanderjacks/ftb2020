@@ -5775,7 +5775,6 @@ fsevents@^1.2.7:
   dependencies:
     bindings "^1.5.0"
     nan "^2.12.1"
-    node-pre-gyp "*"
 
 fsevents@~2.1.1:
   version "2.1.2"
@@ -14140,6 +14139,16 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typeface-nanum-myeongjo@0.0.63:
+  version "0.0.63"
+  resolved "https://registry.yarnpkg.com/typeface-nanum-myeongjo/-/typeface-nanum-myeongjo-0.0.63.tgz#162cdd6995e14fad8b7c22a4b69d396adb1da0b7"
+  integrity sha512-GTNNzXE8hnEG56Qp1Mgamiy75p1Kb8z4XIzUu3wJ8T5AVqqC4IM1UfvqbPaziyl8Xobte20nJPFly7mvBQfd8Q==
+
+typeface-oswald@^1.1.3:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/typeface-oswald/-/typeface-oswald-1.1.4.tgz#2025c5b11ba8b40475166edb80d921a707a1f627"
+  integrity sha512-3UxtnnFXc++Qf84KakDGpvQLis/n9KjZ29BRqkfN9HpVK/oMi+Nk0l5LMDSGtlzzAZ2sqbNJszkmIdr5r+zHmQ==
 
 ua-parser-js@^0.7.18:
   version "0.7.21"
